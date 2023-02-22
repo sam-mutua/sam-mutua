@@ -14,8 +14,6 @@ I am open to collaboration and looking for a placement in a data related job.
 # Upcoming Deployed Projects
 
 
-View my Portfolio at 
-
 <!---
 sam-mutua/sam-mutua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
