@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @sam-mutua
-- 👀 I’m interested in data science, machine learning, distribution theory and statistical modelling of diseases, financial time series data and change point analysis.
-- 🌱 I’m currently learning datascience with SAS. 
-- 💞️ I’m looking to collaborate on package development to help the R community 
-- 📫 How to reach me: via email mutuakilai@gmail.com or twitter @SamKMutua
+# About Me
 
-View my Portfolio at <https://smutuakilai.netlify.app/>
+I am Mutua Sam, a passionate **data analyst** and *R developer* with interest in health science and business sector.
+
+I am open to collaboration and looking for a placement in a data related job.
+
+
+[View My Portfolio](<https://smutuakilai.netlify.app/>)
+
+
+
+
+
+View my Portfolio at 
 
 <!---
 sam-mutua/sam-mutua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
