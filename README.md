@@ -4,11 +4,14 @@ I am Mutua Sam, a passionate **data analyst** and *R developer* with interest in
 
 I am open to collaboration and looking for a placement in a data related job.
 
+<br><br><br>
 
 [View My Portfolio](<https://smutuakilai.netlify.app/>)
 
 
+<br><br><br>
 
+# Upcoming Deployed Projects
 
 
 View my Portfolio at 
