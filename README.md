@@ -1,17 +1,19 @@
 # About Me
 
-I am Mutua Sam, a passionate **data analyst** and *R developer* with interest in health science and business sector.
+I am Mutua Sam, a passionate **data scientist** and *R developer* with interest in predictive analytics in Health Sciences, Business Analytics among others.
 
-I am open to collaboration and looking for a placement in a data related job.
-
-<br><br><br>
-
-[View My Portfolio](<https://smutuakilai.netlify.app/>)
-
+I am open to collaboration.
 
 <br><br><br>
 
-# Upcoming Deployed Projects
+I am a **Statistics Lecturer** at [Kirinyaga University](<https://www.kyu.ac.ke/>)
+
+[View My Portfolio](<https://sam-mutua.github.io/work/)>)
+
+
+<br><br><br>
+
+
 
 
 <!---
